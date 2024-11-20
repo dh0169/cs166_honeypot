@@ -27,6 +27,10 @@ https://whatismyipaddress.com/ip/142.250.189.228
 
 ```
 
+You should see something like this
+
+![google-ip-geolocation](google-ip.png)
+
 
 ***
 ### Analysis Group 1: Daniel 
