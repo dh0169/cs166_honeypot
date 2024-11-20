@@ -2,8 +2,10 @@
 # Attacks for analysis
 
 
-Below you'll find 6 groups of attacks, 2 attacks per group (HTTP, SSH). Choose the group of attacks that you would like to analyze.
+Below you'll find 6 groups of attacks, 2 attacks per group (HTTP, SSH). These attacks were pulled directly from the honeypot log files.
 
+
+Choose the group of attacks that you would like to analyze.
 Feel free to analyze the attacks however you want, just make sure that your analysis has the following
 
 - IP Address of the attacker with geolocation 
@@ -12,7 +14,7 @@ Feel free to analyze the attacks however you want, just make sure that your anal
 - Intended goal or purpose of the attack 
 - Recommended fix and or prevention measures to mitigate similar attacks
 
-You can even paste in your attacks into chatgpt along with the requirements(IP Address, Service targeted, Description, etc) and use that as a guide to help you. 
+**You can even paste in your attacks into chatgpt along with the requirements(IP Address, Service targeted, Description, etc) and use that as a guide to help you.** 
 
 ## How to Geolocate an IP Address
 
