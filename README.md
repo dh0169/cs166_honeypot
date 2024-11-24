@@ -47,7 +47,7 @@ SSH Attack
 
 
 ***
-### Analysis Group 2: 
+### Analysis Group 2: Angie
 
 HTTP Attack
 ```log
@@ -61,7 +61,7 @@ SSH Attack
 
 
 ***
-### Analysis Group 3: 
+### Analysis Group 3: Jrod
 
 HTTP Attack
 ```log
@@ -105,7 +105,7 @@ SSH Attack
 
 
 ***
-### Analysis Group 5:
+### Analysis Group 5: Pratik
 
 HTTP attack
 ```log
@@ -134,7 +134,7 @@ SSH Attack
 
 
 ***
-### Analysis Group 6:
+### Analysis Group 6: Nathan
 
 HTTP attack
 ```log
